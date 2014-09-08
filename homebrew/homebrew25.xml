@@ -1,0 +1,9 @@
+<commit sha="e85bc7ee2cf7efff42451d6eec3a6c785327c477">
+	 <issue id="22508" state="closed">
+		<commit sha="51e2e6b5155c976dade263a6c50c943e80de8aa4">
+		</commit>
+		<commit sha="e85bc7ee2cf7efff42451d6eec3a6c785327c477">
+			<file name="Library/Formula/ntfs-3g.rb"/>
+		</commit>
+	</issue>
+</commit>

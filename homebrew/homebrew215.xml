@@ -1,0 +1,9 @@
+<commit sha="b398e272b377517de8edaa86aa5a3cbb591442b4">
+	 <issue id="21232" state="closed">
+		<commit sha="403fdf184445f19fe88078d824a5b0618e5d6779">
+		</commit>
+		<commit sha="b398e272b377517de8edaa86aa5a3cbb591442b4">
+			<file name="Library/Formula/checkbashisms.rb"/>
+		</commit>
+	</issue>
+</commit>

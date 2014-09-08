@@ -1,0 +1,9 @@
+<commit sha="50406ffe42fd147d082bc67d6dc47e720972f96b">
+	 <issue id="20873" state="closed">
+		<commit sha="50406ffe42fd147d082bc67d6dc47e720972f96b">
+			<file name="Library/Formula/groonga.rb"/>
+		</commit>
+		<commit sha="ba4902a0fd0a532f634600fedc0d0946e9bbec65">
+		</commit>
+	</issue>
+</commit>

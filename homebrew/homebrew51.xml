@@ -1,0 +1,33 @@
+<commit sha="5863f8af89bfd64582c5ca1198622c864e875c20">
+	 <issue id="22249" state="closed">
+		<commit sha="21aeea8b5a58f4e4ff000207c8efa645bdcb0e03">
+		</commit>
+		<commit sha="5863f8af89bfd64582c5ca1198622c864e875c20">
+			<file name="Library/Homebrew/compilers.rb"/>
+		</commit>
+		<commit sha="a5fedcd7c8c40fbe69bb57dddd3a4eb03262514d">
+			<file name="Library/Homebrew/extend/ENV/super.rb"/>
+		</commit>
+	</issue>
+	 <issue id="22328" state="closed">
+		<commit sha="37aa62869484a21b36555bc2cab23f6dd85a0f52">
+			<file name="Library/Homebrew/compilers.rb"/>
+			<file name="Library/Homebrew/test/test_compiler_selector.rb"/>
+		</commit>
+		<commit sha="5863f8af89bfd64582c5ca1198622c864e875c20">
+			<file name="Library/Homebrew/compilers.rb"/>
+		</commit>
+		<commit sha="b2a7acac6d8794f32767731af8f7f90489629a70">
+		</commit>
+	</issue>
+	 <issue id="22424" state="closed">
+		<commit sha="2db6ed6b9bbb599e1456f8a67c3a79a1fcc2bad7">
+		</commit>
+		<commit sha="5863f8af89bfd64582c5ca1198622c864e875c20">
+			<file name="Library/Homebrew/compilers.rb"/>
+		</commit>
+		<commit sha="a5fedcd7c8c40fbe69bb57dddd3a4eb03262514d">
+			<file name="Library/Homebrew/extend/ENV/super.rb"/>
+		</commit>
+	</issue>
+</commit>

@@ -1,0 +1,9 @@
+<commit sha="a36227da6285930eeb9dc8799d7554704a4d44fe">
+	 <issue id="22272" state="closed">
+		<commit sha="34212c9b1b73654924b5d2bb12e26eee3b59b426">
+		</commit>
+		<commit sha="a36227da6285930eeb9dc8799d7554704a4d44fe">
+			<file name="Library/Formula/fb-client.rb"/>
+		</commit>
+	</issue>
+</commit>

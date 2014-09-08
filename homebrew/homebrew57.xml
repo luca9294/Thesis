@@ -1,0 +1,11 @@
+<commit sha="8a01d7807e5a6b8cfe0153940d8793e56a11ae53">
+	 <issue id="22377" state="closed">
+		<commit sha="8a01d7807e5a6b8cfe0153940d8793e56a11ae53">
+			<file name="Library/Formula/macvim.rb"/>
+		</commit>
+		<commit sha="aea8f31a1584251eb79e49d290a2031d1e37a3bb">
+		</commit>
+		<commit sha="e334b68f9f45ba2c9df165931d693998435eb2ed">
+		</commit>
+	</issue>
+</commit>

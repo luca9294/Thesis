@@ -1,0 +1,18 @@
+<commit sha="e0f7abe44c78692f51b1101279fc330bcec2e614">
+	 <issue id="21968" state="closed">
+		<commit sha="50861db4e0575ad5cd013fc379f502f5fa16414e">
+		</commit>
+		<commit sha="a56502a0abd611a9ce82568f4e1eb45e92b1b056">
+		</commit>
+		<commit sha="e0f7abe44c78692f51b1101279fc330bcec2e614">
+			<file name="Library/Formula/pcre++.rb"/>
+		</commit>
+		<commit sha="e593a10173179c8a3153b051bf92bd1822ebb708">
+		</commit>
+	</issue>
+	 <issue id="21969" state="closed">
+		<commit sha="e0f7abe44c78692f51b1101279fc330bcec2e614">
+			<file name="Library/Formula/pcre++.rb"/>
+		</commit>
+	</issue>
+</commit>

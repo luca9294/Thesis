@@ -1,0 +1,12 @@
+<commit sha="c45c77d031b98b48bf635b76ef6c4cc02d950488">
+	 <issue id="21374" state="closed">
+		<commit sha="011ddb057475e9c33587b91c91593edec01c11e6">
+		</commit>
+		<commit sha="c45c77d031b98b48bf635b76ef6c4cc02d950488">
+			<file name="Library/Homebrew/cmd/audit.rb"/>
+		</commit>
+		<commit sha="f402c4eaf96cd51d3c8c5a6acbd4b59c89628fb9">
+			<file name="Library/Homebrew/cmd/audit.rb"/>
+		</commit>
+	</issue>
+</commit>

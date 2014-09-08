@@ -1,0 +1,12 @@
+<commit sha="5f6f8bc1c1946d8bc7ee179de8e412c6c0eb58af">
+	 <issue id="21486" state="closed">
+		<commit sha="5f6f8bc1c1946d8bc7ee179de8e412c6c0eb58af">
+			<file name="Library/Homebrew/formula_lock.rb"/>
+		</commit>
+		<commit sha="646dab06d7d60f4b34fc9e7e6eb59909aa97cbbe">
+		</commit>
+		<commit sha="9e2535caef8347cc709d27c4c928c3b15ce12906">
+			<file name="Library/Homebrew/formula_lock.rb"/>
+		</commit>
+	</issue>
+</commit>

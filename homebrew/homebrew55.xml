@@ -1,0 +1,18 @@
+<commit sha="8356c1bec9cb5cb976f5d1eafb81c66d2d919d66">
+	 <issue id="21634" state="closed">
+		<commit sha="37957d5237bc52a2dea68010bf04fed9235c1002">
+		</commit>
+		<commit sha="8356c1bec9cb5cb976f5d1eafb81c66d2d919d66">
+			<file name="Library/Formula/erlang.rb"/>
+		</commit>
+		<commit sha="ff7a0d309e8b6e3201f92a6c70516cd2375034e7">
+		</commit>
+	</issue>
+	 <issue id="22452" state="closed">
+		<commit sha="37957d5237bc52a2dea68010bf04fed9235c1002">
+		</commit>
+		<commit sha="8356c1bec9cb5cb976f5d1eafb81c66d2d919d66">
+			<file name="Library/Formula/erlang.rb"/>
+		</commit>
+	</issue>
+</commit>

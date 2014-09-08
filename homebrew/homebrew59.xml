@@ -1,0 +1,11 @@
+<commit sha="2562e141f98ba6325ceab533590da63bf7327122">
+	 <issue id="22401" state="closed">
+		<commit sha="2562e141f98ba6325ceab533590da63bf7327122">
+			<file name="Library/Formula/opus-tools.rb"/>
+		</commit>
+		<commit sha="279cbb5c88c4549366d36655b9c33c25b888fa1b">
+		</commit>
+		<commit sha="4732701890cb59bd1968a5f8d81077e7193754e5">
+		</commit>
+	</issue>
+</commit>

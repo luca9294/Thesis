@@ -1,0 +1,11 @@
+<commit sha="bd9ea25f6fefe3c097f7692428f7939d5016286a">
+	 <issue id="22353" state="closed">
+		<commit sha="08181b3d2c12b02827505e02c2f18dc44072cfac">
+		</commit>
+		<commit sha="bd9ea25f6fefe3c097f7692428f7939d5016286a">
+			<file name="Library/Formula/basex.rb"/>
+		</commit>
+		<commit sha="dd2b62f63ebbba79f5f4a7543dea75212b210828">
+		</commit>
+	</issue>
+</commit>

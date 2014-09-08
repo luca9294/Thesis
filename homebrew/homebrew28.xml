@@ -1,0 +1,11 @@
+<commit sha="7c71acc125a10f5cc84aaba345ed645e60e73f21">
+	 <issue id="22096" state="closed">
+		<commit sha="6e1a67369a376412f2deccbd3a01edd33a56a919">
+		</commit>
+		<commit sha="7c71acc125a10f5cc84aaba345ed645e60e73f21">
+			<file name="Library/Formula/mongo-c.rb"/>
+		</commit>
+		<commit sha="82d059bc986c838005c073b9953f46b7ba13eb5c">
+		</commit>
+	</issue>
+</commit>

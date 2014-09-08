@@ -1,0 +1,9 @@
+<commit sha="196afb43172ac9cc3a3ab452a547231c60fef2e3">
+	 <issue id="21132" state="closed">
+		<commit sha="196afb43172ac9cc3a3ab452a547231c60fef2e3">
+			<file name="Library/Formula/binutils.rb"/>
+		</commit>
+		<commit sha="349b5ab114b2ccd55c048107c360f2bc0a9385ee">
+		</commit>
+	</issue>
+</commit>

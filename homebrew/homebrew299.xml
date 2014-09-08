@@ -1,0 +1,9 @@
+<commit sha="1f9276a6d41756b47d238c5be641efef2058cc90">
+	 <issue id="22475" state="closed">
+		<commit sha="1f9276a6d41756b47d238c5be641efef2058cc90">
+			<file name="Library/Formula/libcouchbase.rb"/>
+		</commit>
+		<commit sha="6b2c9c85ba742cb5dee754bbf0521c0a3e6ac578">
+		</commit>
+	</issue>
+</commit>

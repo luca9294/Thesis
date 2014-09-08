@@ -1,0 +1,9 @@
+<commit sha="4a88427f1d9872479daeb64471fb7e24f790dc97">
+	 <issue id="22246" state="closed">
+		<commit sha="01f4492d7f5f87dbaeb337602b281cfc549c53f1">
+		</commit>
+		<commit sha="4a88427f1d9872479daeb64471fb7e24f790dc97">
+			<file name="Library/Formula/ruby-build.rb"/>
+		</commit>
+	</issue>
+</commit>

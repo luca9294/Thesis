@@ -1,0 +1,11 @@
+<commit sha="a634b70e24d7eb33295e1d0051436fa391e3b19c">
+	 <issue id="22311" state="closed">
+		<commit sha="6aff5d4a3d1b89bb9b5fa69c32afe1f2bc15a975">
+		</commit>
+		<commit sha="90d658e3fa9085507de3590c64121d9e638de80a">
+		</commit>
+		<commit sha="a634b70e24d7eb33295e1d0051436fa391e3b19c">
+			<file name="Library/Formula/libftdi.rb"/>
+		</commit>
+	</issue>
+</commit>

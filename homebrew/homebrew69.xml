@@ -1,0 +1,25 @@
+<commit sha="fd03aa527d1a4a44f202a9841b6b4e05ee6065b6">
+	 <issue id="22347" state="closed">
+		<commit sha="48dbb9186e732f22ae505957c568e0e04ea71062">
+		</commit>
+		<commit sha="a098f46e10d2b7c0d3c5063cc393a08f7cf6b12a">
+			<file name="Library/Homebrew/build_options.rb"/>
+			<file name="Library/Homebrew/test/test_build_options.rb"/>
+		</commit>
+		<commit sha="fd03aa527d1a4a44f202a9841b6b4e05ee6065b6">
+			<file name="Library/Formula/enchant.rb"/>
+			<file name="Library/Formula/fontforge.rb"/>
+			<file name="Library/Formula/libvirt.rb"/>
+			<file name="Library/Formula/libxml2.rb"/>
+			<file name="Library/Formula/omniorb.rb"/>
+			<file name="Library/Formula/portmidi.rb"/>
+			<file name="Library/Formula/pygtkglext.rb"/>
+			<file name="Library/Formula/pygtksourceview.rb"/>
+			<file name="Library/Formula/shiboken.rb"/>
+			<file name="Library/Homebrew/build_options.rb"/>
+			<file name="Library/Homebrew/formula.rb"/>
+			<file name="Library/Homebrew/python_helper.rb"/>
+			<file name="Library/Homebrew/test/test_build_options.rb"/>
+		</commit>
+	</issue>
+</commit>

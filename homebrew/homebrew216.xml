@@ -1,0 +1,12 @@
+<commit sha="de8babb217b24138c1b4b81fab8bcd7080c496b8">
+	 <issue id="21396" state="closed">
+		<commit sha="68084b420be141f1a510315dda0592d9e2e4fe66">
+		</commit>
+		<commit sha="82b244e13404b0f9ce48a49e860acb00d80a1a83">
+			<file name="Library/Formula/git.rb"/>
+		</commit>
+		<commit sha="de8babb217b24138c1b4b81fab8bcd7080c496b8">
+			<file name="Library/Formula/git.rb"/>
+		</commit>
+	</issue>
+</commit>

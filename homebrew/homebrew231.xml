@@ -1,0 +1,9 @@
+<commit sha="834bdb2b1af7ad544910ddccefa91ba770c946f9">
+	 <issue id="21862" state="closed">
+		<commit sha="650e622031f603596ba6d4f9ac53e59c2b7d4d25">
+		</commit>
+		<commit sha="834bdb2b1af7ad544910ddccefa91ba770c946f9">
+			<file name="Library/Formula/putty.rb"/>
+		</commit>
+	</issue>
+</commit>

@@ -1,0 +1,18 @@
+<commit sha="4cd60ac5ff2a24759879a5e2387b901dd4d0b7ae">
+	 <issue id="18787" state="closed">
+		<commit sha="1d5b65db69fe038254316996655b9ef82da4e84f">
+			<file name="Library/Formula/jsmin.rb"/>
+		</commit>
+		<commit sha="307580194c24075eb13f9e7b527aac279eff1fd7">
+		</commit>
+		<commit sha="453b4146b5cee8607daac475ded8a0f0379221d7">
+		</commit>
+		<commit sha="4746f4bea68a84b80b5217493cc7c20bf3bd943c">
+		</commit>
+		<commit sha="4cd60ac5ff2a24759879a5e2387b901dd4d0b7ae">
+			<file name="Library/Formula/jsmin.rb"/>
+		</commit>
+		<commit sha="9ca8f902211468fc25654bec7afa249e631ae34d">
+		</commit>
+	</issue>
+</commit>

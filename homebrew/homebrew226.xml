@@ -1,0 +1,9 @@
+<commit sha="391e363f901146d3bf2bce3ef74e5a0751ed36c0">
+	 <issue id="21850" state="closed">
+		<commit sha="391e363f901146d3bf2bce3ef74e5a0751ed36c0">
+			<file name="Library/Formula/sbt.rb"/>
+		</commit>
+		<commit sha="448fef65ff0c016807da4b8eb570869a6bcb3e00">
+		</commit>
+	</issue>
+</commit>

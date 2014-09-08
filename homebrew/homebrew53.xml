@@ -1,0 +1,9 @@
+<commit sha="6332c1ad33305cb8beed979aeffc30beaf25dec6">
+	 <issue id="22415" state="closed">
+		<commit sha="1d85158f54f9f463f06632dcf1180d6a68af9af4">
+		</commit>
+		<commit sha="6332c1ad33305cb8beed979aeffc30beaf25dec6">
+			<file name="Library/Formula/ec2-api-tools.rb"/>
+		</commit>
+	</issue>
+</commit>

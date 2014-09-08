@@ -1,0 +1,11 @@
+<commit sha="2f147fb8d1a9a93628efdb17b25262def6fa5ff3">
+	 <issue id="21812" state="closed">
+		<commit sha="2f147fb8d1a9a93628efdb17b25262def6fa5ff3">
+			<file name="Library/Homebrew/blacklist.rb"/>
+			<file name="Library/Homebrew/cmd/doctor.rb"/>
+			<file name="Library/Homebrew/requirements.rb"/>
+		</commit>
+		<commit sha="55a53fb749e83728be20eda9e55ca00615eddd7e">
+		</commit>
+	</issue>
+</commit>

@@ -1,0 +1,9 @@
+<commit sha="c0255fce45380f5a73ff154c01dd6701dc404806">
+	 <issue id="22474" state="closed">
+		<commit sha="c0255fce45380f5a73ff154c01dd6701dc404806">
+			<file name="Library/Formula/plzip.rb"/>
+		</commit>
+		<commit sha="f20053f7df23e8dbe627031c58265ddf3fc36214">
+		</commit>
+	</issue>
+</commit>

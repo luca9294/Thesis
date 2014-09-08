@@ -1,0 +1,9 @@
+<commit sha="5d60cfd76ebcdec6a83ff6bb5b8bf49b03d4dce5">
+	 <issue id="20238" state="closed">
+		<commit sha="5d60cfd76ebcdec6a83ff6bb5b8bf49b03d4dce5">
+			<file name="Library/Formula/mapnik.rb"/>
+		</commit>
+		<commit sha="694f7738724bb93736a09a0c9dd66aaacfe4acdb">
+		</commit>
+	</issue>
+</commit>

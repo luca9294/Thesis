@@ -1,0 +1,9 @@
+<commit sha="1dbae66b883de8f31c06aa5f1bbbc700beab9daa">
+	 <issue id="20860" state="closed">
+		<commit sha="1dbae66b883de8f31c06aa5f1bbbc700beab9daa">
+			<file name="Library/Formula/python.rb"/>
+		</commit>
+		<commit sha="27c6e739a8abac9c1857c8f766d5d4dd72711c69">
+		</commit>
+	</issue>
+</commit>

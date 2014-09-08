@@ -1,0 +1,9 @@
+<commit sha="75fd3ba4579b9b1fcee59ab5fbcc68ab1a59afe3">
+	 <issue id="20989" state="closed">
+		<commit sha="75fd3ba4579b9b1fcee59ab5fbcc68ab1a59afe3">
+			<file name="Library/Formula/rethinkdb.rb"/>
+		</commit>
+		<commit sha="9eab2a61a54d491bca74f5d40454d8c9e4c1b3b3">
+		</commit>
+	</issue>
+</commit>

@@ -1,0 +1,14 @@
+<commit sha="1793401f859a6f8e9d47c781a07fc7b74613dc3c">
+	 <issue id="22505" state="closed">
+		<commit sha="1793401f859a6f8e9d47c781a07fc7b74613dc3c">
+			<file name="Library/Formula/go.rb"/>
+		</commit>
+		<commit sha="ba33921ea3a3a1c9c61ab19ca887c2dfa20becc8">
+		</commit>
+	</issue>
+	 <issue id="22609" state="closed">
+		<commit sha="1793401f859a6f8e9d47c781a07fc7b74613dc3c">
+			<file name="Library/Formula/go.rb"/>
+		</commit>
+	</issue>
+</commit>

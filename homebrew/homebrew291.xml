@@ -1,0 +1,9 @@
+<commit sha="34504e5ca07e3850063dca9496de24557f9f02dd">
+	 <issue id="22490" state="closed">
+		<commit sha="34504e5ca07e3850063dca9496de24557f9f02dd">
+			<file name="Library/Formula/wireshark.rb"/>
+		</commit>
+		<commit sha="efec85144b9665fa274666250c2fd73125c58bf7">
+		</commit>
+	</issue>
+</commit>

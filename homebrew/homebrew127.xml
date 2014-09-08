@@ -1,0 +1,9 @@
+<commit sha="95557e1255754c1ef65062728b46deb490aba24e">
+	 <issue id="21987" state="closed">
+		<commit sha="20971bbe3ef09c831e5572fd546bdae74167d783">
+		</commit>
+		<commit sha="95557e1255754c1ef65062728b46deb490aba24e">
+			<file name="Library/Formula/chruby.rb"/>
+		</commit>
+	</issue>
+</commit>

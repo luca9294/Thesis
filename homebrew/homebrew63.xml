@@ -1,0 +1,111 @@
+<commit sha="698e5624be3375b6eb740c451fbd140a4085ba5d">
+	 <issue id="15751" state="closed">
+		<commit sha="022ddfa91b4e8dbee7e2ade1fdc6a7337151b947">
+		</commit>
+		<commit sha="04aa1ee37d443b2f8094f38720913a43fae62f70">
+		</commit>
+		<commit sha="050640a1cad1b5653770bc82c96e155fe18c0af2">
+		</commit>
+		<commit sha="0f6957407e13bb97b51a6f065e71c1662763138d">
+		</commit>
+		<commit sha="1d0b958f6bc444d6657c135c95a2df763c986124">
+		</commit>
+		<commit sha="32e998a73c10e251453def0379f1cff5a92e0285">
+		</commit>
+		<commit sha="3fbd8afa7daf80d8afb17949d06042aba749271f">
+		</commit>
+		<commit sha="687cbcbddf509c3c19ec7d2112caa5948664d657">
+		</commit>
+		<commit sha="698e5624be3375b6eb740c451fbd140a4085ba5d">
+			<file name="Library/Homebrew/formula.rb"/>
+			<file name="Library/Homebrew/formula_installer.rb"/>
+			<file name="Library/Homebrew/global.rb"/>
+			<file name="Library/Homebrew/keg.rb"/>
+			<file name="Library/Homebrew/test/testing_env.rb"/>
+		</commit>
+		<commit sha="6cd0c9b8afb603d527fe2f9d7e3236bd59637f13">
+			<file name="Library/Homebrew/formula.rb"/>
+			<file name="Library/Homebrew/formula_installer.rb"/>
+			<file name="Library/Homebrew/keg.rb"/>
+		</commit>
+		<commit sha="71cfdee659b614b01710332c18bad1696d16880f">
+			<file name="Library/Homebrew/formula.rb"/>
+			<file name="Library/Homebrew/formula_installer.rb"/>
+			<file name="Library/Homebrew/global.rb"/>
+			<file name="Library/Homebrew/keg.rb"/>
+			<file name="Library/Homebrew/test/testing_env.rb"/>
+		</commit>
+		<commit sha="78c26ac70af35e30b1845f88703a61fea764827a">
+		</commit>
+		<commit sha="7d1cb91ea92ee5531ce32f4bf94aa5dc2ca98a48">
+		</commit>
+		<commit sha="a2f4a444e8cd7b54ad75d0f44eda33c07bc2b62a">
+		</commit>
+		<commit sha="b5d66af6456e9b20287edf01bc7b1fb0184346a6">
+		</commit>
+		<commit sha="baafd420e0e967d41b66e9b819afbc8af04711b2">
+		</commit>
+		<commit sha="c62a9e96bfd4545cd37a7e37c525f5d521a7e800">
+		</commit>
+		<commit sha="cafa5d0fc922444ffb0c55bb1973e3f27457c879">
+		</commit>
+		<commit sha="cd00c03ec377ac2f3c991cd9a9f8c9db0b00bfb0">
+		</commit>
+		<commit sha="d33f26a285220ac27c6916df93c25e26cd37501c">
+		</commit>
+		<commit sha="d343c12520cbc94a037b701822c6f6931f56c8f3">
+		</commit>
+		<commit sha="fda2378974d0ca181c455cc20f1271a2ce8c92d9">
+		</commit>
+	</issue>
+	 <issue id="17713" state="closed">
+		<commit sha="04aa1ee37d443b2f8094f38720913a43fae62f70">
+		</commit>
+		<commit sha="050640a1cad1b5653770bc82c96e155fe18c0af2">
+		</commit>
+		<commit sha="0f6957407e13bb97b51a6f065e71c1662763138d">
+		</commit>
+		<commit sha="1d0b958f6bc444d6657c135c95a2df763c986124">
+		</commit>
+		<commit sha="32e998a73c10e251453def0379f1cff5a92e0285">
+		</commit>
+		<commit sha="3fbd8afa7daf80d8afb17949d06042aba749271f">
+		</commit>
+		<commit sha="698e5624be3375b6eb740c451fbd140a4085ba5d">
+			<file name="Library/Homebrew/formula.rb"/>
+			<file name="Library/Homebrew/formula_installer.rb"/>
+			<file name="Library/Homebrew/global.rb"/>
+			<file name="Library/Homebrew/keg.rb"/>
+			<file name="Library/Homebrew/test/testing_env.rb"/>
+		</commit>
+		<commit sha="71cfdee659b614b01710332c18bad1696d16880f">
+			<file name="Library/Homebrew/formula.rb"/>
+			<file name="Library/Homebrew/formula_installer.rb"/>
+			<file name="Library/Homebrew/global.rb"/>
+			<file name="Library/Homebrew/keg.rb"/>
+			<file name="Library/Homebrew/test/testing_env.rb"/>
+		</commit>
+		<commit sha="78c26ac70af35e30b1845f88703a61fea764827a">
+		</commit>
+		<commit sha="7d1cb91ea92ee5531ce32f4bf94aa5dc2ca98a48">
+		</commit>
+		<commit sha="a2f4a444e8cd7b54ad75d0f44eda33c07bc2b62a">
+		</commit>
+		<commit sha="b5d66af6456e9b20287edf01bc7b1fb0184346a6">
+		</commit>
+		<commit sha="baafd420e0e967d41b66e9b819afbc8af04711b2">
+		</commit>
+		<commit sha="c62a9e96bfd4545cd37a7e37c525f5d521a7e800">
+		</commit>
+		<commit sha="cafa5d0fc922444ffb0c55bb1973e3f27457c879">
+		</commit>
+		<commit sha="cd00c03ec377ac2f3c991cd9a9f8c9db0b00bfb0">
+		</commit>
+		<commit sha="d33f26a285220ac27c6916df93c25e26cd37501c">
+		</commit>
+		<commit sha="d343c12520cbc94a037b701822c6f6931f56c8f3">
+		</commit>
+		<commit sha="fda2378974d0ca181c455cc20f1271a2ce8c92d9">
+		</commit>
+	</issue>
+</commit>

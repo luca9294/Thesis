@@ -1,0 +1,9 @@
+<commit sha="82d8dbca04437a5924a04dc2e76e65789105080d">
+	 <issue id="21583" state="closed">
+		<commit sha="562d2041a53a52368508d9e9c5124f1038c5c4e7">
+		</commit>
+		<commit sha="82d8dbca04437a5924a04dc2e76e65789105080d">
+			<file name="Library/Formula/autojump.rb"/>
+		</commit>
+	</issue>
+</commit>

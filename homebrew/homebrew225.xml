@@ -1,0 +1,9 @@
+<commit sha="39b2450b96a5c2bfacb9156f4b0fdade9f443cfb">
+	 <issue id="21842" state="closed">
+		<commit sha="39b2450b96a5c2bfacb9156f4b0fdade9f443cfb">
+			<file name="Library/Formula/drush.rb"/>
+		</commit>
+		<commit sha="6ba29df6954a29e0531cef19cd42bb8ba55a4b12">
+		</commit>
+	</issue>
+</commit>

@@ -1,0 +1,9 @@
+<commit sha="22e0c461dd49d79fd131daf2f74fa190e186edd5">
+	 <issue id="19482" state="closed">
+		<commit sha="22e0c461dd49d79fd131daf2f74fa190e186edd5">
+			<file name="Library/Formula/qemu.rb"/>
+		</commit>
+		<commit sha="551dc836be5354b2b173dd8acc0a60b8f83f28ba">
+		</commit>
+	</issue>
+</commit>

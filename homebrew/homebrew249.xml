@@ -1,0 +1,9 @@
+<commit sha="e14603911bea6479add6c01db527e96fd1831c99">
+	 <issue id="20240" state="closed">
+		<commit sha="016b6119c0da9764ae644281c94209b2bd622314">
+		</commit>
+		<commit sha="e14603911bea6479add6c01db527e96fd1831c99">
+			<file name="Library/Formula/vera++.rb"/>
+		</commit>
+	</issue>
+</commit>

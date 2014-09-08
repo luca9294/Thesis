@@ -1,0 +1,9 @@
+<commit sha="2f6dc2694b6af3b827617cfabf8230d6013b137d">
+	 <issue id="22522" state="closed">
+		<commit sha="2f6dc2694b6af3b827617cfabf8230d6013b137d">
+			<file name="Library/Formula/gcutil.rb"/>
+		</commit>
+		<commit sha="65b27eba3f8cb283faf1ca8e956fc3479387231f">
+		</commit>
+	</issue>
+</commit>

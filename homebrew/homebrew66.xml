@@ -1,0 +1,9 @@
+<commit sha="a5d8bf4ae038fd65129633bbf55a6042d2d8bf98">
+	 <issue id="22326" state="closed">
+		<commit sha="a5d8bf4ae038fd65129633bbf55a6042d2d8bf98">
+			<file name="Library/Formula/unrar.rb"/>
+		</commit>
+		<commit sha="efdb4ee620bf248537bb44cdc492c988775241fd">
+		</commit>
+	</issue>
+</commit>

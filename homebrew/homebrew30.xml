@@ -1,0 +1,11 @@
+<commit sha="778c1ae5ecdc68463e01f2f5674ee33dcfd6dbb1">
+	 <issue id="21312" state="closed">
+		<commit sha="27fba0960889f9cede494ac049a985065476e421">
+		</commit>
+		<commit sha="778c1ae5ecdc68463e01f2f5674ee33dcfd6dbb1">
+			<file name="Library/Formula/ponysay.rb"/>
+		</commit>
+		<commit sha="f4bf567dda3023821f0e730b8e35a4fb43d495c9">
+		</commit>
+	</issue>
+</commit>

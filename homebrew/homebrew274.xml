@@ -1,0 +1,9 @@
+<commit sha="6bafdddbfd6866b8482608e7708d139d309f40eb">
+	 <issue id="19671" state="closed">
+		<commit sha="2d0cc36fbbb290ca3217e64fdf65b600333a5ac2">
+		</commit>
+		<commit sha="6bafdddbfd6866b8482608e7708d139d309f40eb">
+			<file name="Library/Formula/byobu.rb"/>
+		</commit>
+	</issue>
+</commit>

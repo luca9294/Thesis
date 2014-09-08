@@ -1,0 +1,9 @@
+<commit sha="ea6e8b0747082b552fba708d1c1190a06c6c1531">
+	 <issue id="22342" state="closed">
+		<commit sha="1a6bef7ebb5b7dbeccf1412628d5696394de2c07">
+		</commit>
+		<commit sha="ea6e8b0747082b552fba708d1c1190a06c6c1531">
+			<file name="Library/Formula/texapp.rb"/>
+		</commit>
+	</issue>
+</commit>

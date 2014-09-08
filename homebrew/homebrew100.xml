@@ -1,0 +1,9 @@
+<commit sha="aaa932d8c54d94f317bc34e2b9ed901c954f36dc">
+	 <issue id="22171" state="closed">
+		<commit sha="452bca15b184a527c56a0daed0ffb0c7ac0629e7">
+		</commit>
+		<commit sha="aaa932d8c54d94f317bc34e2b9ed901c954f36dc">
+			<file name="Library/Formula/sdl2_ttf.rb"/>
+		</commit>
+	</issue>
+</commit>

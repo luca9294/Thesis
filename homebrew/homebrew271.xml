@@ -1,0 +1,11 @@
+<commit sha="7810063d743a08e9898a040f6c66628ea363219f">
+	 <issue id="21867" state="closed">
+		<commit sha="7810063d743a08e9898a040f6c66628ea363219f">
+			<file name="Library/Formula/argus.rb"/>
+		</commit>
+		<commit sha="aa51cafba4fcebdf10da9f60ddcd5c5ef28e9c22">
+		</commit>
+		<commit sha="b611da849b536d98333304335f4da8063a9332ac">
+		</commit>
+	</issue>
+</commit>

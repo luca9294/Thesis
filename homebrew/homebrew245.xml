@@ -1,0 +1,9 @@
+<commit sha="b18d2eb58e96f2d0bc12e01c2115827c66daf0c6">
+	 <issue id="20242" state="closed">
+		<commit sha="45b0d94a8665f24df86fd06708c6c06424558121">
+		</commit>
+		<commit sha="b18d2eb58e96f2d0bc12e01c2115827c66daf0c6">
+			<file name="Library/Formula/selenium-server-standalone.rb"/>
+		</commit>
+	</issue>
+</commit>

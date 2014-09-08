@@ -1,0 +1,11 @@
+<commit sha="3e78e11ba3955d39cfd42e9ed6431899b4656f9e">
+	 <issue id="20273" state="closed">
+		<commit sha="3e78e11ba3955d39cfd42e9ed6431899b4656f9e">
+			<file name="Library/Formula/git-flow-avh.rb"/>
+		</commit>
+		<commit sha="7499a9f1ed280542cbfa3f4197aeea33ad78b9a4">
+		</commit>
+		<commit sha="dd8e7e3e8bde202bcc17fbeadfc465aa463919a6">
+		</commit>
+	</issue>
+</commit>

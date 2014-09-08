@@ -1,0 +1,9 @@
+<commit sha="edee235587623f9c625362136812adcbb3a83c81">
+	 <issue id="22205" state="closed">
+		<commit sha="2c3681e35bc0f94a31605a5c476484329168a22f">
+		</commit>
+		<commit sha="edee235587623f9c625362136812adcbb3a83c81">
+			<file name="Library/Homebrew/formula_installer.rb"/>
+		</commit>
+	</issue>
+</commit>

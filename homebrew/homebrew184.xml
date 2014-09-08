@@ -1,0 +1,9 @@
+<commit sha="850cc51e4206e8148d3cad87f1f8892686e1e884">
+	 <issue id="21673" state="closed">
+		<commit sha="228e8b0de46d279840d388f6a3c44e24600e79b7">
+		</commit>
+		<commit sha="850cc51e4206e8148d3cad87f1f8892686e1e884">
+			<file name="Library/Formula/libsigc++.rb"/>
+		</commit>
+	</issue>
+</commit>

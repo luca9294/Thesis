@@ -1,0 +1,9 @@
+<commit sha="5836e0c1589755bc2bdb222ca4186df22aa83538">
+	 <issue id="22464" state="closed">
+		<commit sha="19a1bb512ead911c851653a374d1a0ab05470ff1">
+		</commit>
+		<commit sha="5836e0c1589755bc2bdb222ca4186df22aa83538">
+			<file name="Library/Formula/closure-compiler.rb"/>
+		</commit>
+	</issue>
+</commit>

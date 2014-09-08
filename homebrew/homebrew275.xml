@@ -1,0 +1,11 @@
+<commit sha="5d989cf990dc2bbd204ae370d91b07bb96fecd7d">
+	 <issue id="19672" state="closed">
+		<commit sha="5d989cf990dc2bbd204ae370d91b07bb96fecd7d">
+			<file name="Library/Formula/perforce-proxy.rb"/>
+			<file name="Library/Formula/perforce-server.rb"/>
+			<file name="Library/Formula/perforce.rb"/>
+		</commit>
+		<commit sha="a3d85e2f423dc12d675a57a567da81b0e56f2e77">
+		</commit>
+	</issue>
+</commit>

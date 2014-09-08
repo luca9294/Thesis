@@ -1,0 +1,21 @@
+<commit sha="321841ba37b7cf4a8cbe19949c1163b4df611f9e">
+	 <issue id="22329" state="closed">
+		<commit sha="00f8110fc6c001d71b02c55b5e9950a46cd5aefb">
+		</commit>
+		<commit sha="18a5c2956437918d5229f154e8b9cd407a7d6ac3">
+		</commit>
+		<commit sha="321841ba37b7cf4a8cbe19949c1163b4df611f9e">
+			<file name="Library/Formula/mongodb.rb"/>
+		</commit>
+		<commit sha="3857d9c2dc9d57656268c2aabdf0c65e57f25cb4">
+			<file name="Library/Formula/mongodb.rb"/>
+		</commit>
+		<commit sha="5ba030c162a8ad000623e04867fdd696923dabf7">
+			<file name="Library/Formula/mongodb.rb"/>
+		</commit>
+		<commit sha="96a446bfc4aeddf1b997337d2e80c1ab5f30ce92">
+		</commit>
+		<commit sha="f659d158ae45a4de3331ec78449a282feca78167">
+		</commit>
+	</issue>
+</commit>

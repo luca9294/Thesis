@@ -1,0 +1,9 @@
+<commit sha="ee10d7f59c220f2a84cc22a40b990a62ce32563b">
+	 <issue id="22416" state="closed">
+		<commit sha="566fe93fc4d02ee6b782d0273d5fa667d2d33875">
+		</commit>
+		<commit sha="ee10d7f59c220f2a84cc22a40b990a62ce32563b">
+			<file name="Library/Formula/cabal-install.rb"/>
+		</commit>
+	</issue>
+</commit>

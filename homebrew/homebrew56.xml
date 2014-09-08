@@ -1,0 +1,11 @@
+<commit sha="8b3876b172d8edcd409dbd143fb5114edcb23403">
+	 <issue id="22352" state="closed">
+		<commit sha="1624148474de81f02694da89f58461376d0aae58">
+		</commit>
+		<commit sha="4bc24b824f09a4b83d20420442f1883745848339">
+		</commit>
+		<commit sha="8b3876b172d8edcd409dbd143fb5114edcb23403">
+			<file name="Library/Formula/ledger.rb"/>
+		</commit>
+	</issue>
+</commit>

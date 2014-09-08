@@ -1,0 +1,12 @@
+<commit sha="4c9ea3b2dc858b0a25acdca7a02258a90419ff07">
+	 <issue id="21398" state="closed">
+		<commit sha="2832038235812f68fa3c6a2975b4c1946ad26d68">
+		</commit>
+		<commit sha="4c9ea3b2dc858b0a25acdca7a02258a90419ff07">
+			<file name="Library/Formula/leiningen.rb"/>
+		</commit>
+		<commit sha="6b98fcea7b146964729b1c52acf67496263325b1">
+			<file name="Library/Formula/leiningen.rb"/>
+		</commit>
+	</issue>
+</commit>

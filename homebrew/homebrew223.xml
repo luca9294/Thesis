@@ -1,0 +1,12 @@
+<commit sha="4fe76e78e45f8bde2134e7e278bce1d7f840f1d7">
+	 <issue id="20373" state="closed">
+		<commit sha="44760746e4f55e82c93c034a2757425fdd51bbf3">
+		</commit>
+		<commit sha="4fe76e78e45f8bde2134e7e278bce1d7f840f1d7">
+			<file name="Library/Formula/libspatialite.rb"/>
+		</commit>
+		<commit sha="d8ae3a4e545d9e3a077cc40eecbce2ade2bb31b3">
+			<file name="Library/Formula/libspatialite.rb"/>
+		</commit>
+	</issue>
+</commit>

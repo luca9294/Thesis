@@ -1,0 +1,9 @@
+<commit sha="a30d082058c33dcdeff675d762c45c7a5bee36dc">
+	 <issue id="22240" state="closed">
+		<commit sha="110afca220a0bdc1f304e81e21a725a57dd88cbd">
+		</commit>
+		<commit sha="a30d082058c33dcdeff675d762c45c7a5bee36dc">
+			<file name="Library/Formula/android-ndk.rb"/>
+		</commit>
+	</issue>
+</commit>

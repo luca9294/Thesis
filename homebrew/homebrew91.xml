@@ -1,0 +1,9 @@
+<commit sha="ef0c37a4a8ac6137b26e7924fc46a7238efb9b84">
+	 <issue id="22198" state="closed">
+		<commit sha="32065f705d78da7a961034598033ff91852332ab">
+		</commit>
+		<commit sha="ef0c37a4a8ac6137b26e7924fc46a7238efb9b84">
+			<file name="Library/Formula/sbcl.rb"/>
+		</commit>
+	</issue>
+</commit>
