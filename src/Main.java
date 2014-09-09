@@ -45,10 +45,12 @@ public class Main {
 		createMap();
 
 		
-		//System.out.println(map.get(29).text);
-		//System.out.println(map.get(59).text);
-		createPair(map.get(29));
-		createPair(map.get(59));
+		System.out.println(map.get(16).text);
+		System.out.println(map.get(5).text);
+	
+		
+		
+getCrossDistance(map.get(16),map.get(17));
 		
 		
 		
@@ -64,13 +66,10 @@ public class Main {
 		
 		
 		
-		
-		
-		
-		//array = new double[map.size()][map.size()];
+		array = new double[map.size()][map.size()];
 
 		// System.out.println(count);
-/*
+
 		Vector<Vector<Integer>> p = new Vector<Vector<Integer>>();
 
 		for (int t = 0; t < array.length; t++) {
@@ -87,10 +86,11 @@ public class Main {
 		int yMin = 2;
 		double min = 2;
 
-		for (int i = 0; i < array.length; i++) {
+	/*	for (int i = 0; i < array.length; i++) {
 			for (int z = i + 1; z < array.length; z++) {
 				if (i != z) {
-					writeFile("a.txt", i); // crea i.zip
+					double result1 = getCrossDistance(map.get(i),map.get(z));
+					/*writeFile("a.txt", i); // crea i.zip
 					writeFile("b.txt", z); // crea z.zip
 					String acc = map.get(z).text + "\n" + map.get(i).text;
 					writeFile("c.txt", acc); // iz.zip
@@ -101,8 +101,8 @@ public class Main {
 
 					long result = (sizeIZ - (Math.min(sizeI, sizeZ)));
 					double result1 = (double) result
-							/ (double) Math.max(sizeI, sizeZ);
-					if (result1 < min) {
+							/ (double) Math.max(sizeI, sizeZ);*/
+			/* if (result1 < min) {
 						xMin = i;
 						yMin = z;
 						min = result1;
@@ -112,7 +112,7 @@ public class Main {
 					array[i][z] = result1;
 
 					// (df.format(result1).replace(",", "."));
-					deleteFile("a" + ".zip");
+					/*deleteFile("a" + ".zip");
 					deleteFile("b" + ".zip");
 					deleteFile("c" + ".zip");
 				}
@@ -121,17 +121,17 @@ public class Main {
 
 		}
 
-		//System.out.println("\n1¡ STEP");
+		System.out.println("\n1¡ STEP");
 
 		for (int t = 0; t < array.length; t++) {
 			for (int o = 0; o < array.length; o++) {
-				if (array[t][o] == 99.00 || array[t][o] == 0.00) {
+				if (array[t][o] == 99.00 ) {
 					//System.out.print("X" + " ");
 
 				} else {
 					DecimalFormat df = new DecimalFormat("0.000");
 				//	System.out.print(df.format(array[t][o]).replace(",", ".")
-					//		+ " ");
+						//	+ " ");
 				}
 
 			}
@@ -150,7 +150,7 @@ public class Main {
 			int num2 = 0;
 			int num3 = 0;
 
-			System.out.println("\n" + count + "¡ STEP");
+			//System.out.println("\n" + count + "¡ STEP");
 
 			el = cluster(el);
 			//el.print();
@@ -250,8 +250,8 @@ public class Main {
 		Writer writer = new BufferedWriter(new OutputStreamWriter(
 				new FileOutputStream("file.dot"), "utf-8"));
 		writer.write(toWrite);
-		writer.close();*/
-
+		writer.close();
+*/
 	}
 
 	public static Element1 cluster(Element1 element) {
@@ -332,7 +332,7 @@ public class Main {
 
 	}
 
-	public static void createPair(Commit commit) throws SAXException, IOException, ParserConfigurationException{
+	public static Vector<String> createPair(Commit commit) throws SAXException, IOException, ParserConfigurationException{
 		DocumentBuilderFactory builderFactory = DocumentBuilderFactory
 				.newInstance();
 
@@ -384,15 +384,115 @@ public class Main {
 		}
 		System.out.println(vector.toString());
 		
-		
-		
-		
-		
-		
+		return vector;
 		
 	}
 	
-	
+	public static double getCrossDistance(Commit c1, Commit c2) throws SAXException, IOException, ParserConfigurationException{
+		Vector<String> result = new Vector<String>();
+		Vector<String> result1 = new Vector<String>();
+		Vector<String> v1 = createPair(c1);
+		Vector<String> v2 = createPair(c2);
+		String tem = "";
+		
+		for (int i = 0; i< v1.size(); i++){
+			if (i>=v2.size()){
+				if (tem != null){result.add(tem);}
+				tem = null;
+				result.add(v1.get(i));
+				
+				
+			}
+			else{
+			if (v1.size() !=1){
+			if (!v1.get(i).equals(v2.get(i))){
+				if (!tem.isEmpty()){
+				result.add(tem);
+				tem = v1.get(i);
+				result.add(tem);
+				tem = "";
+				}
+				else{
+					result.add(v1.get(i));
+					
+				}
+				
+				
+			}
+			
+			else{
+			tem += v1.get(i);	
+			if (i == v1.size() -1){
+				if (!tem.isEmpty()){
+				result.add(tem);}
+				
+			}
+			}}
+		else{
+			result.add(v1.get(i));
+			
+		}
+			
+		
+		
+		}}
+		
+		tem = "";
+		for (int i = 0; i< v2.size(); i++){
+			if (i>=v1.size()){
+				if (!tem.isEmpty()){result1.add(tem);}
+				tem = "";
+				result1.add(v2.get(i));
+				
+				
+			}
+			else{
+			if (v2.size() !=1){
+				if (!v1.get(i).equals(v2.get(i))){
+					if (!tem.isEmpty()){
+					result1.add(tem);
+					tem = v2.get(i);
+					result1.add(tem);
+					tem = "";
+			
+					}
+					
+					else{
+						result1.add(v2.get(i));
+						
+					}
+					
+					
+				}
+				
+				else{
+					
+				tem += v2.get(i);	
+				if (i == v2.size() -1){
+					result1.add(tem);
+					
+				}
+			
+				}
+				
+			}
+			else{
+			
+				result1.add(v2.get(i));
+				
+			}
+			}
+			}
+		
+	double dist =  (((double)result.size() -1 )/v1.size()) +  (((double)result1.size() -1 )/v2.size()) / 2;
+		
+		System.out.println(result.toString());
+		System.out.println(result1.toString());
+		System.out.println(dist);
+		
+		
+	return dist;	
+	}
 	
 	
 	
@@ -418,7 +518,7 @@ public class Main {
 
 		int count = 0;
 
-		for (int i = 0; i < 668; i++) {
+		for (int i = 0; i < 50; i++) {
 			Node nodo = persone.item(i);
 			Node node = nodo.getParentNode();
 			if ((node.getNodeName().equals("msr2014"))) {
