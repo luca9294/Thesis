@@ -4,8 +4,9 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Commit  {
-private int id;
+public int id;
 public String text;
+public boolean isLeaf;
 
 	
 	

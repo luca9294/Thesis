@@ -1,2 +1,2 @@
-<commit sha="4656e399f5df8e58e468eb06d40f578babbf90ec"><issue id="22587" state="closed"><commit sha="4656e399f5df8e58e468eb06d40f578babbf90ec"><file name="Library/Formula/ninja.rb"/></commit></issue></commit>
-<commit sha="e2554ccbe927a4dc002ff7aad84d4301f30dcdbb"></commit>
+<commit sha="8d94b476088971679b5d8de068ce469a41ed3e86"></commit>
+<commit sha="d1be402e201678fe932870f9d0cf7be2232229ae"></commit>

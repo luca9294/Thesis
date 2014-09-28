@@ -20,7 +20,7 @@ public class Element1 {
 	public void print(){
 		 for(int t = 0; t < array.length; t++){
 				for (int o = 0; o < array.length; o++){
-					if (array[t][o] == 99.00 || array[t][o] == 0.00 ){
+					if (array[t][o] == 99.00 ){
 						System.out.print("X" + " ");
 						
 					}
